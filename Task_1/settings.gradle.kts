@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Task_1"
 include(":app")
- 
